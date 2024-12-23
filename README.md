@@ -19,7 +19,7 @@ git clone https://github.com/Asif-Faizal/Rive-Pull_refresh.git
 
 ### Navigate to the project directory:
 ```bash
-cd flutter-pull-to-refresh-rive
+cd Pull-to-Refresh-Rive
 ```
 
 Make sure you have an active Rive account and use their tools to design your pull-to-refresh animation. Export the .riv file and place it in the assets directory.
