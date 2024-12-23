@@ -1,5 +1,7 @@
 # Custom Pull-to-Refresh Animation with Rive in Flutter
 
+https://github.com/user-attachments/assets/190afde9-f818-448a-b11a-8465376b1ff3
+
 This Flutter project demonstrates a custom pull-to-refresh animation using Rive and its state machines to reflect different states during the pull-to-refresh process. The project integrates Rive's powerful animation capabilities to create a smooth and visually appealing refresh interaction.
 
 ## Features
