@@ -12,12 +12,11 @@ Smooth Integration: The Rive animation is smoothly integrated with Flutter's Ref
 
 ### Clone this repository:
 ```bash
-git clone https://github.com/your-username/flutter-pull-to-refresh-rive.git
+git clone https://github.com/Asif-Faizal/Rive-Pull_refresh.git
 ```
 
 ### Navigate to the project directory:
 ```bash
-Copy code
 cd flutter-pull-to-refresh-rive
 ```
 
