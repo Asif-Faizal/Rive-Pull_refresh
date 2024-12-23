@@ -20,11 +20,6 @@ git clone https://github.com/Asif-Faizal/Rive-Pull_refresh.git
 cd flutter-pull-to-refresh-rive
 ```
 
-### Install the dependencies:
-```bash
-flutter pub get
-```
-
 Make sure you have an active Rive account and use their tools to design your pull-to-refresh animation. Export the .riv file and place it in the assets directory.
 
 Add the Rive package to your pubspec.yaml:
@@ -40,4 +35,9 @@ Update your pubspec.yaml to include the assets directory:
 flutter:
   assets:
     - assets/animations/pull_to_refresh.riv
+```
+
+### Install the dependencies:
+```bash
+flutter pub get
 ```
