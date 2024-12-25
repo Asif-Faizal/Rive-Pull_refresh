@@ -1,4 +1,4 @@
-# Custom Pull-to-Refresh Animation with Rive in Flutter
+# Custom Pull-to-Refresh Animation with [Rive](https://rive.app/) in Flutter
 
 https://github.com/user-attachments/assets/190afde9-f818-448a-b11a-8465376b1ff3
 
